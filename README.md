@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Achaikal02
-- 👀 I’m interested in blockchain
+- 👀 I’m interested in machine learning
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on new project
 - 📫 How to reach me please email to haikalflashbanjarnegara@gmail.com
